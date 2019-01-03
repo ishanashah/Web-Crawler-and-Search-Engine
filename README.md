@@ -1,0 +1,2 @@
+# Web-Crawler-and-Search-Engine
+Java program that crawls the web, builds an index to quickly access the web, and responds to search queries. The index is stored in the disk to accommodate large webs, and is loaded in a web server before queries are run. The search engine supports word and phrase queries, and allows the use of logical and, or, and not operators. Search results are ranked by connectedness (how many other pages link to this page).
